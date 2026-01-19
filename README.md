@@ -37,6 +37,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 ```javascript
 const muhammadAnique = {
     location: "Pakistan 🇵🇰",
@@ -46,8 +48,6 @@ const muhammadAnique = {
     funFact: "I turn coffee into code and algorithms into innovations ☕"
 };
 ```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 Working on **Advanced Deep Learning & Computer Vision Projects**
 - 🌱 Exploring **LangChain, LangGraph & AI Agents**
