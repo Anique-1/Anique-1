@@ -39,15 +39,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```javascript
-const muhammadAnique = {
-    location: "Pakistan 🇵🇰",
-    currentRole: "AI Engineer & Full-Stack Developer",
-    expertise: ["Machine Learning", "Deep Learning", "Computer Vision", "LLM & AI Agents"],
-    currentFocus: "Building Intelligent AI Solutions with LangChain & YOLO",
-    funFact: "I turn coffee into code and algorithms into innovations ☕"
-};
-```
+<br>
+
+**`AI Engineer & Full-Stack Developer from Pakistan 🇵🇰`**
+
+I'm a passionate **AI Engineer** and **Full-Stack Developer** specializing in building intelligent systems and scalable applications. With expertise spanning **Machine Learning**, **Deep Learning**, **Computer Vision**, and **LLM & AI Agents**, I transform innovative ideas into impactful solutions.
+
+<br>
 
 - 🔭 Working on **Advanced Deep Learning & Computer Vision Projects**
 - 🌱 Exploring **LangChain, LangGraph & AI Agents**
@@ -56,6 +54,7 @@ const muhammadAnique = {
 - 💡 Ask me about **AI Engineering, YOLO, PyTorch, LangChain**
 - 🌐 Portfolio: **[muhammad-anique-frontend.vercel.app](https://muhammad-anique-frontend.vercel.app/)**
 - 📫 Email: **muhammadanique81@gmail.com**
+- ☕ Fun Fact: **I turn coffee into code and algorithms into innovations**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
