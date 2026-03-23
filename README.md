@@ -243,16 +243,6 @@ fun_fact    : "I turn coffee into code and algorithms into innovations"
 
 ---
 
-## `$ cat trophies.json`
-
-<div align="center">
- 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=anique-1&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
- 
-</div>
-
----
-
 ## `$ ping anique`
 
 <div align="center">
