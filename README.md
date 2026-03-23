@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:ff3d3d,100:0d0d1a&height=280&section=header&text=Muhammad%20Anique&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20·%20Computer%20Vision%20·%20LLM%20%26%20Agents%20Architect&descAlignY=58&descSize=18&descColor=aaaacc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:ff3d3d,100:0d0d1a&height=280&section=header&text=Muhammad%20Anique&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%20Computer%20Vision%20%20LLM%20%20Agents%20Architect&descAlignY=58&descSize=18&descColor=aaaacc)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3D3D&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Building+Intelligent+Systems+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;LangGraph+%7C+LangChain+%7C+AI+Agents+Specialist;YOLO+%7C+Computer+Vision+%7C+Deep+Learning+Engineer;Turning+Algorithms+into+Production+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3D3D&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Building+Intelligent+Systems+from+Pakistan;LangGraph+%2B+LangChain+%2B+AI+Agents+Specialist;YOLO+%2B+Computer+Vision+%2B+Deep+Learning;Turning+Algorithms+into+Production+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -259,7 +259,7 @@ fun_fact    : "I turn coffee into code and algorithms into innovations"
 
 | Platform | Link |
 |:---:|:---:|
-| 🌐 Portfolio | [muhammad-anique-frontend.vercel.app](https://muhammad-anique-frontend.vercel.app/) |
+| 🌐 Portfolio | [anique.me](https://anique.me) |
 | 💼 LinkedIn | [muhammad-anique-300828266](https://www.linkedin.com/in/muhammad-anique-300828266) |
 | 🐙 GitHub | [Anique-1](https://github.com/Anique-1) |
 | 📧 Email | [muhammadanique81@gmail.com](mailto:muhammadanique81@gmail.com) |
@@ -280,6 +280,6 @@ fun_fact    : "I turn coffee into code and algorithms into innovations"
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:ff3d3d,100:0d0d1a&height=140&section=footer&text=Building%20the%20future%2C%20one%20algorithm%20at%20a%20time&fontSize=16&fontColor=aaaacc&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:ff3d3d,100:0d0d1a&height=140&section=footer&text=Building%20the%20future%20one%20algorithm%20at%20a%20time&fontSize=16&fontColor=aaaacc&animation=fadeIn)
 
 </div>
