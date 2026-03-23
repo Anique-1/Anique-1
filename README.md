@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%E2%86%97%20Portfolio-ff3d3d?style=for-the-badge&logoColor=white)](https://muhammad-anique-frontend.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/%E2%86%97%20Portfolio-ff3d3d?style=for-the-badge&logoColor=white)](https://anique.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-anique-300828266)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anique-1)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadanique81@gmail.com)
